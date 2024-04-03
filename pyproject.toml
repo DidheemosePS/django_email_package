@@ -1,5 +1,5 @@
 [project]
-name = "django-emails"
+name = "django-email-templates"
 version = "0.0.1"
 authors = [
   { name="Didheemose", email="sebastiandidheemose2002@gmail.com" },

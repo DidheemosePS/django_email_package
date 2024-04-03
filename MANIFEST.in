@@ -1,1 +1,1 @@
-recursive-include src/django_emails/templates *.html
+recursive-include src/django_email_templates/templates *.html
