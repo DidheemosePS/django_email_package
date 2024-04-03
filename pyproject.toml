@@ -1,5 +1,5 @@
 [project]
-name = "x23176245-django-email"
+name = "django-emails"
 version = "0.0.1"
 authors = [
   { name="Didheemose", email="sebastiandidheemose2002@gmail.com" },
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/DidheemosePS/django_email_package"
-Issues = "https://github.com/DidheemosePS/django_email_package/issues"
+Homepage = "https://github.com/DidheemosePS/django_emails_package"
+Issues = "https://github.com/DidheemosePS/django_emails_package/issues"
